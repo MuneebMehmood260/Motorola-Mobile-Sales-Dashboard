@@ -19,7 +19,7 @@ This was my **first Power BI Dashboard project**, created to strengthen my Busin
 
 ## 🏠 Dashboard
 
-![Motorola Dashboard](Images/dashboard.png)
+![Motorola Dashboard](images/dashboard.png)
 
 ---
 
